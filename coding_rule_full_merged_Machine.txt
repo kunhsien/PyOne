@@ -1,0 +1,9 @@
+/*
+Full Coding Rule Violations List (Merged)
+
+| Code Path | Line | Rule No. | Coding Rule | Risk Comments | Owner |
+|-----------|------|----------|--------------|----------------|--------|
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallMachine.h | 557 | AUTOSAR-M5_0_4-a | Implicit conversion between signed and unsigned type in the 'm_power_source' variable initialization shall not be used | minor Fix plan: Apply explicit type casting (static_cast<uint8_t>) to BBS_VEHICLE. | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallMachine.h | 573 | AUTOSAR-M5_0_4-a | Implicit conversion between signed and unsigned type in the 'm_msdSendType' variable initialization shall not be used | minor Fix plan: Apply explicit type casting (static_cast<uint8_t>) to BBS_MSD_SEND_DEFAULT. | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallMachine.h | 574 | AUTOSAR-M5_0_4-a | Implicit conversion between signed and unsigned type in the 'm_msdTimeoutType' variable initialization shall not be used | minor Fix plan: Apply explicit type casting (static_cast<uint8_t>) to BBS_MSD_SEND_TIMEOUT_DEFAULT. | xCall |
+*/
