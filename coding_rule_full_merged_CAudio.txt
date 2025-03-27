@@ -1,0 +1,9 @@
+/*
+Full Coding Rule Violations List (Merged)
+
+| Code Path | Line | Rule No. | Coding Rule | Risk Comments | Owner |
+|-----------|------|----------|--------------|----------------|--------|
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/src/CeCallAudio.cpp | 32 | JSF-143 | 'ret' initialized with a dummy value | minor Fix plan: Move 'ret' declaration to where it's actually used and initialize it with a meaningful value directly. | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/src/CeCallAudio.cpp | 41 | AUTOSAR-M5_0_4-a | Implicit conversion between signed and unsigned type in the 'LANGUE_VHL_2' variable initialization shall not be used | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/src/CeCallAudio.cpp | 57 | AUTOSAR-M5_0_4-a | Implicit conversion between signed and unsigned type shall not be used | nan | xCall |
+*/
