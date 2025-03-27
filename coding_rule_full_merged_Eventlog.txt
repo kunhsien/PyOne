@@ -1,0 +1,18 @@
+/*
+Full Coding Rule Violations List (Merged)
+
+| Code Path | Line | Rule No. | Coding Rule | Risk Comments | Owner |
+|-----------|------|----------|--------------|----------------|--------|
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 93 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_CANinfo_crash_content' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 94 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_Registration_state' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 95 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_eCall_session_state' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 98 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_Vehicle_sev' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 99 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_Vehicle_canState' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 101 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_Vehicle_configMode' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 104 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_eCall_session_init_ecall_trigger' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 106 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_PASP_call_state' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 107 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_MSD_trans_state' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 108 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_eCall_session_mode' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 109 | AUTOSAR-A3_3_2-a | The declaration of variable 'Enum_TCU_power' contains a non-constant initializer | nan | xCall |
+| /code_release/apps/src/apps/macchina.io/MD/eCallManager/include/CeCallEventLog.h | 111 | AUTOSAR-A3_3_2-a | The declaration of variable 'invalid_str' contains a non-constant initializer | nan | xCall |
+*/
